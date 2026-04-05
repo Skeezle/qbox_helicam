@@ -12,7 +12,12 @@ ex.
 ['polmav'] = true,
 
 Press E to toggle helicam
+
 Press RMB to cycle different filters such as night vision and thermal vision
+
 Press Space to lock on
+
 Mouse scroll wheel zooms in and out
+
 Press x while in rear passenger seats to repel out of helicopter
+
