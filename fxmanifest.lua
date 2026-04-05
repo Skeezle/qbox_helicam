@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 name 'qbx_helicam skeezle rework'
-description 'Helicopter camera resource for Qbox'
+description 'Helicopter camera and spotlight resource for Qbox'
 version '2.2.0'
 
 ox_lib 'locale'
