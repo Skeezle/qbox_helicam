@@ -1,12 +1,9 @@
-server_script '@ElectronAC/src/include/server.lua'
-client_script '@ElectronAC/src/include/client.lua'
 fx_version 'cerulean'
 game 'gta5'
 
-name 'qbx_helicam'
+name 'qbx_helicam skeezle rework'
 description 'Helicopter camera resource for Qbox'
-repository 'https://github.com/Qbox-project/qbx_helicam'
-version '1.0.0'
+version '2.2.0'
 
 ox_lib 'locale'
 
